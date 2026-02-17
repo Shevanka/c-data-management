@@ -25,12 +25,12 @@ This repository complements the `c-fundamentals` and `c-mini-games` projects by 
 
 ```
 c-data-management/
-├── student-system/
-│   ├── student_struct_system.c
-│   └── README.md
-│
 ├── employee-system/
 │   ├── employee_struct_system.c
+│   └── README.md
+│
+├── student-system/
+│   ├── student_struct_system.c
 │   └── README.md
 │
 └── README.md
