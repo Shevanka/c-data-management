@@ -32,8 +32,8 @@ The program allows users to input multiple student records and view them in an o
 student-system/
 ├── output
 │  └── student_struct_system.exe
-├── student_struct_system.c
-└── README.md
+├── README.md
+└── student_struct_system.c
 ```
 
 ## How to Compile
