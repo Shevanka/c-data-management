@@ -31,8 +31,8 @@ The program allows users to input multiple employee records and display them in 
 employee-system/
 ├── output/
 │  └── employee_struct_system.exe
-├── employee_struct_system.c
-└── README.md
+├── README.md
+└── employee_struct_system.c
 ```
 
 ## How to Compile
